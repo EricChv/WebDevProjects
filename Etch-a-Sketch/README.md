@@ -1,6 +1,6 @@
 # Etch-a-Sketch
 
-This is a simple rock paper scissors game implemented in JavaScript. The game allows players to play against the computer and keeps track of the score.
+This is a interactive website that resembes the classic Etch A Sketch toy. You can draw anything you want by dragging the mouse across the screen. The color darkens as you drag multilpe times over the same area.
 
 ## Features
 - Draw any figure in a Etch A Sketch style.
