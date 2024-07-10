@@ -1,0 +1,154 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --white: #fff;
+    --dark-blue: #1f2937; /* Header and Footer BG - Information Title - Quote Text  */
+    --light-blue: #3882f6; /* Call to Acton BG - Button Color */
+    --light-gray: #e5e7eb; /* Quote BG - Header Small Text and Links */
+}
+
+button {
+    border: none;
+    color: var(--white);
+    font-weight: bold;
+    background-color: var(--light-blue);
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: hsl(217, 91%, 40%);
+    cursor: pointer;
+}
+
+header {
+    background-color: var(--dark-blue);
+    color: var(--white);
+    padding: 20px 200px;
+}
+
+.header-top, .header-main {
+    display: flex;
+    margin-bottom: 200px;
+    justify-content: space-between;
+}
+
+.header-top ul {
+    display: flex;
+}
+
+.header-top li {
+    margin-left: 20px;
+}
+
+.header-top li a {
+    text-decoration: none;
+    color: var(--light-gray);
+}
+
+.header-top li a:hover {
+    text-decoration: underline;
+    color: var(--light-blue);
+}
+
+.header-info {
+    margin-right: 50px;
+}
+
+.header-info h1 {
+    font-weight: bold;
+    font-size: 48px;
+    margin-bottom: 5px;
+    padding-top: 150px;
+}
+
+.header-info p {
+    color: var(--light-gray);
+}
+
+.header-main .header-img img {
+    background-color: var(--light-gray);
+}
+
+.main-info {
+    padding: 0 80px 80px;
+}
+
+.main-info h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.main-info .cards-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.main-info .cards-container div {
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.main-info .cards-container div div {
+    width: 200px;
+    height: 200px;
+    border: 3px solid var(--dark-blue);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.main-quote {
+    background-color: var(--light-gray);
+    padding: 100px 400px;
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.main-quote .quote-source {
+    text-align: right;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.main-action {
+    margin: 80px;
+}
+
+.main-action .action-card {
+    width: 600px;
+    margin: 0 auto;
+    background-color: var(--light-blue);
+    padding: 40px 80px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 7px;
+    color: var(--white);
+}
+
+.action-card button {
+    border: 2px solid var(--white);
+}
+
+footer {
+    padding: 30px;
+    background-color: var(--dark-blue);
+    text-align: center;
+    color: var(--white);
+}
