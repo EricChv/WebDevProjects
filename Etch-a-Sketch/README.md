@@ -13,4 +13,4 @@ This is a interactive website that resembes the classic Etch A Sketch toy. You c
 1. Drag mouse across the gray screen.
    
 ## Play
-https://ericchv.github.io/Rock-Paper-Scissors/
+https://ericchv.github.io/Etch-a-Sketch/
