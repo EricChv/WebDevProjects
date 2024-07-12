@@ -14,11 +14,11 @@ A basic recipe website, created with HTML and CSS, showcasing various recipes in
 
 **Rock Paper Scissors Game**  
 A rock paper scissors game implemented in JavaScript, HTML, and CSS. The game allows players to play against the computer and keeps track of the score.
-[Link to Rock Paper Scissors Game Project](https://github.com/EricChv/WebDevProjects/tree/main/Rock-Paper-Scissors)
+[Link to Rock-Paper-Scissors Game Project](https://github.com/EricChv/WebDevProjects/tree/main/Rock-Paper-Scissors)
 
 **Etch A Sketch**  
 This is an interactive website, created with JavaScript, HTML, and CSS, that resembles the classic Etch A Sketch toy. You can draw anything you want by dragging the mouse across the screen. The color darkens as you drag multiple times over the same area.
-[Link to Rock Paper Scissors Game Project](https://github.com/EricChv/WebDevProjects/tree/main/Rock-Paper-Scissors)
+[Link to Etch-A-Sketch Project](https://github.com/EricChv/WebDevProjects/tree/main/Etch-a-Sketch)
 
 
 #### Getting Started
