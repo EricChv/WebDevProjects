@@ -5,31 +5,21 @@ This repository contains a small collection of web development projects develope
 #### Projects Overview
 
 **Landing Page**  
-Description: A simple landing page created using HTML and CSS. The page is designed to introduce visitors to a product or service, provide key information, and encourage them to take a specific action, such as signing up.  
-Features:
-- Responsive design: The landing page is designed to be responsive and look great on all devices.
-- Clean and modern design: The layout is clean, modern, and visually appealing.
-- Easy to customize: The HTML and CSS code are well-organized and commented, making it easy to customize.  
+Description: A responsive landing page created using HTML and CSS. The page is designed to adapt to look great on any device. It introduce visitors to a product or service, provides key information, and encourage them to take a specific action, such as signing up.  
 [Link to Landing Page Project](https://github.com/EricChv/TheOdinProjects/tree/main/Landing%20Page)
 
 **Recipe Website**  
-Description: A basic HTML recipe website showcasing various recipes in a simple and easy-to-navigate format.  
-Skills demonstrated:
-- HTML fundamentals
-- Semantic HTML
-- Basic CSS styling
-- Organizational skills
-- Basic web development workflow  
-[Link to Recipes Website Project](https://github.com/EricChv/TheOdinProjects/tree/main/Recipes)
+A basic recipe website, created with HTML and CSS, showcasing various recipes in a simple and easy-to-navigate format.
+[Link to Recipes Website Project](https://github.com/EricChv/WebDevProjects/tree/main/Recipes)
 
 **Rock Paper Scissors Game**  
-Description: A simple rock paper scissors game implemented in JavaScript. The game allows players to play against the computer and keeps track of the score.  
-Features:
-- Play against the computer
-- Keep track of the score
-- Display round results and final result
-- Restart the game  
-[Link to Rock Paper Scissors Game Project](https://github.com/EricChv/TheOdinProjects/tree/main/Rock-Paper-Scissors)
+A rock paper scissors game implemented in JavaScript, HTML, and CSS. The game allows players to play against the computer and keeps track of the score.
+[Link to Rock Paper Scissors Game Project](https://github.com/EricChv/WebDevProjects/tree/main/Rock-Paper-Scissors)
+
+**Etch A Sketch**  
+This is an interactive website, created with JavaScript, HTML, and CSS, that resembles the classic Etch A Sketch toy. You can draw anything you want by dragging the mouse across the screen. The color darkens as you drag multiple times over the same area.
+[Link to Rock Paper Scissors Game Project](https://github.com/EricChv/WebDevProjects/tree/main/Rock-Paper-Scissors)
+
 
 #### Getting Started
 To run these projects locally or view their source code, follow these steps:
