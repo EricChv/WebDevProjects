@@ -1,6 +1,6 @@
 # Etch-a-Sketch
 
-This is a interactive website that resembes the classic Etch A Sketch toy. You can draw anything you want by dragging the mouse across the screen. The color darkens as you drag multilpe times over the same area.
+Interactive Etch-a-Sketch web application using HTML5, CSS3, and JavaScript. This application emulates the classic Etch-a-Sketch toy, enabling users to draw freehand by dragging the mouse across the canvas. The drawing experience is enhanced by implementing a color intensification feature, where the color deepens with each additional stroke over the same area, replicating the classic sketching effect.
 
 ## Features
 - Draw any figure in a Etch A Sketch style.
