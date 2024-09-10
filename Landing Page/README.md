@@ -1,6 +1,6 @@
 ### Landing Page
 
-This project is a simple landing page created using HTML and CSS. The page is designed to introduce visitors to our product or service, provide key information, and encourage them to take a specific action, such as signing up.
+Dynamic and responsive landing page utilizing HTML5 and CSS3. The page showcases a product with engaging visual elements, deliver comprehensive information, and strategically guide visitors towards a targeted call-to-action, such as user sign-ups.
 
 #### Features
 
